@@ -47,24 +47,22 @@ object FMain: TFMain
     Height = 214
     Align = alBottom
     TabOrder = 1
-    ExplicitTop = 235
     DesignSize = (
       834
       214)
     object Label1: TLabel
-      Left = 482
+      Left = 570
       Top = 24
-      Width = 126
+      Width = 30
       Height = 20
       Anchors = [akRight, akBottom]
-      Caption = #1055#1086#1080#1089#1082' '#1087#1086' '#1092#1072#1084#1080#1083#1080#1080':'
+      Caption = #1061#1059#1049
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -15
       Font.Name = 'Segoe UI Light'
-      Font.Style = []
+      Font.Style = [fsBold]
       ParentFont = False
-      ExplicitLeft = 472
     end
     object GroupBox1: TGroupBox
       Left = 1
