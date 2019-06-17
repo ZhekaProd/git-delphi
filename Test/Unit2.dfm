@@ -14,7 +14,7 @@ object Form2: TForm2
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 120
+    Left = 96
     Top = 80
     Width = 208
     Height = 54
