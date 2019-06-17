@@ -1,7 +1,7 @@
-object Form2: TForm2
+object Form3: TForm3
   Left = 0
   Top = 0
-  Caption = 'Form2'
+  Caption = 'Form3'
   ClientHeight = 281
   ClientWidth = 418
   Color = clBtnFace
@@ -14,14 +14,14 @@ object Form2: TForm2
   PixelsPerInch = 96
   TextHeight = 13
   object Label1: TLabel
-    Left = 168
-    Top = 96
-    Width = 65
-    Height = 54
-    Caption = 'Hay'
+    Left = 88
+    Top = 80
+    Width = 95
+    Height = 62
+    Caption = 'Kavo'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
-    Font.Height = -40
+    Font.Height = -47
     Font.Name = 'Segoe UI Light'
     Font.Style = []
     ParentFont = False
