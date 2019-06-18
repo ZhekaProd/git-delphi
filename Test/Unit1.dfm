@@ -16,9 +16,9 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 168
     Top = 88
-    Width = 72
+    Width = 36
     Height = 45
-    Caption = 'pppp'
+    Caption = 'qq'
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
     Font.Height = -33
